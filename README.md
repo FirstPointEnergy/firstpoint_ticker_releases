@@ -10,8 +10,8 @@ sitting on your desk or wall instead of buried in an app you have to go open.
 No laptop. No dashboard tab. Just look up and *know*.
 
 > 📦 **This repo hosts the firmware releases that ship to devices.** The Ticker
-> updates itself over the air — every binary your device flashes overnight comes
-> from right here. Grab the latest under [**Releases**](../../releases/latest).
+> keeps itself updated over the air — every binary your device runs comes from
+> right here. Grab the latest under [**Releases**](../../releases/latest).
 
 ---
 
@@ -53,12 +53,11 @@ One firmware, multiple form factors — pick the screen that fits your space:
 - **Waveshare 7" touch** — a big, bright 800×480 touchscreen dashboard with
   swipeable history and tap-to-explore details.
 
-## 🔄 It updates itself
+## 🔄 It keeps itself updated
 
-Set it and forget it. Every night the Ticker quietly checks for new firmware,
-and if there's an update it downloads and installs it **all on its own** — then
-boots straight back to your dashboard. No cables, no fuss, no "is my firmware
-out of date?" Ever. (Prefer to do it now? **Settings → Check for updates.**)
+Set it and forget it. The Ticker quietly keeps its own firmware current — new
+features and fixes arrive on their own, with no cables and no "is my firmware out
+of date?" (Want to check on demand? **Settings → Check for updates.**)
 
 Updates are delivered straight from this public release channel and verified for
 integrity before they're ever booted — a bad download can never brick your
