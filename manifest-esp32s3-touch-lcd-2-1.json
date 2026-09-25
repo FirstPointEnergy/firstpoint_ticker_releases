@@ -1,0 +1,10 @@
+{
+  "name": "FirstPoint Ticker",
+  "version": "1.19.0",
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [ { "path": "esp32s3-touch-lcd-2-1-factory.bin", "offset": 0 } ]
+    }
+  ]
+}

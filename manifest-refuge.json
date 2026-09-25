@@ -1,0 +1,10 @@
+{
+  "name": "FirstPoint Ticker",
+  "version": "1.19.0",
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [ { "path": "refuge-factory.bin", "offset": 0 } ]
+    }
+  ]
+}
