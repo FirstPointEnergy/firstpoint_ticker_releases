@@ -1,0 +1,10 @@
+{
+  "name": "FirstPoint Ticker",
+  "version": "1.27.1",
+  "builds": [
+    {
+      "chipFamily": "ESP32-C6",
+      "parts": [ { "path": "esp32c6-touch-lcd-2-8-factory.bin", "offset": 0 } ]
+    }
+  ]
+}
